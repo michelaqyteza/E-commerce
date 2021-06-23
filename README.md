@@ -15,7 +15,10 @@ database to create, retrieve, update and delete products.
 ## Installation Instructions
  You will need to install MySQL2, Sequelize, and Express.js packages using npm. You will also need a local installation of MySql with Workbench. A schema and many seeds files can be found in the db folder that shows the database with sample data.
 
-## Video Tutorials
+## Video Tutorial
+Here is a video on how to start and create the database, then going to Insomnia and showing you the GET, POST, PUT, and DELETE 
+Click [HERE](https://youtu.be/Fdgb8nWMVkA) to go to my youtube channel to watch the tutorial. 
+
 
 ## Links 
 - [GitHub](https://github.com/michelaqyteza)
