@@ -21,5 +21,5 @@ database to create, retrieve, update and delete products.
 - [GitHub](https://github.com/michelaqyteza)
 - [LinkedIn](https://www.linkedin.com/in/michela-qyteza-705154207/)
 - [Email](mailto:michelaq1997@gmail.com)
-- [Creating Database tutorial]()
-- [Insomnia Tutorial]()
+- [Creating Database and Insomnia tutorial](https://youtu.be/Fdgb8nWMVkA)
+
